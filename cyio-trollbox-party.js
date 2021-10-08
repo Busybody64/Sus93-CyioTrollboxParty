@@ -1,6 +1,6 @@
 (async function(){
   $window({
-    icon: "/c/sys/skins/w93/apps/catExplorer.png",
+    icon: "apps/chat.gif",
     title: "(Cyio) Trollbox (Party)",
     width: 500,
     height: 470,
