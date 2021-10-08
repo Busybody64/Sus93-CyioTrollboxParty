@@ -1,3 +1,3 @@
-# Sus93 trollbox.party link
+# Sus93 cyio.trollbox.party link
 I'm honestly shocked this even works!
-Well, it kinda doesn't. At least, trollbox.party. But at least it COULD work soon.
+It's actually usable, too, unlike the normal trollbox.party one.
